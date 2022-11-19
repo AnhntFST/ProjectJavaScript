@@ -1,0 +1,4 @@
+Tạo một ứng dụng đọc tin tức. 
+Dữ liệu về các tin tức sẽ được lấy từ new API 
+- Một API giúp lấy dữ liệu về các bài viết theo từng danh mục khác nhau.
+ Đồng thời, bạn cũng sẽ phát triển tính năng Login/Register cho trang Web để quản lý các người dùng.
